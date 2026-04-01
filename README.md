@@ -5,6 +5,8 @@
 
 A modern, local-first note-taking application built with **Tauri 2.0 + React + Rust + SQLite**.
 
+**Repository**: https://github.com/LXuekun/NoteFlow
+
 **[English](README.md)** | **[简体中文](README-CN.md)**
 
 ## Why NoteFlow?
@@ -494,3 +496,12 @@ For the full license text, see [LICENSE](LICENSE) file or visit [MIT License](ht
 - [Tailwind CSS](https://tailwindcss.com) - Styling
 - [sqlx](https://github.com/launchbadge/sqlx) - Rust SQL toolkit
 - [Zustand](https://github.com/pmndrs/zustand) - State management
+
+---
+
+## Author
+
+**LXuekun**
+
+- Email: luxuekun2019@gmail.com
+- GitHub: https://github.com/LXuekun

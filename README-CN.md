@@ -4,6 +4,8 @@
 
 一个现代化的本地优先笔记本应用，基于 **Tauri 2.0 + React + Rust + SQLite** 构建。
 
+**仓库地址**：https://github.com/LXuekun/NoteFlow
+
 **[English](README.md)** | **[简体中文](README-CN.md)**
 
 ## 为什么开发 NoteFlow？
@@ -503,3 +505,12 @@ RUST_LOG=debug npm run tauri dev
 - [Tailwind CSS](https://tailwindcss.com) - 样式框架
 - [sqlx](https://github.com/launchbadge/sqlx) - Rust SQL 工具包
 - [Zustand](https://github.com/pmndrs/zustand) - 状态管理
+
+---
+
+## 作者
+
+**LXuekun**
+
+- 邮箱：luxuekun2019@gmail.com
+- GitHub：https://github.com/LXuekun
