@@ -1,6 +1,11 @@
 # NoteFlow
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![中文文档](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue.svg)](README-CN.md)
+
 A modern, local-first note-taking application built with **Tauri 2.0 + React + Rust + SQLite**.
+
+**[English](README.md)** | **[简体中文](README-CN.md)**
 
 ## Why NoteFlow?
 
@@ -446,7 +451,15 @@ RUST_LOG=debug npm run tauri dev
 
 ## License
 
-MIT License - see LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License allows you to:
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+
+For the full license text, see [LICENSE](LICENSE) file or visit [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 

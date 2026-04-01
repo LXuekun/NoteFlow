@@ -1,8 +1,10 @@
 # NoteFlow
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 一个现代化的本地优先笔记本应用，基于 **Tauri 2.0 + React + Rust + SQLite** 构建。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**[English](README.md)** | **[简体中文](README-CN.md)**
 
 ## 为什么开发 NoteFlow？
 
