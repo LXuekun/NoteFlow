@@ -8,6 +8,7 @@ src-tauri/target/
 # IDE
 .idea/
 .vscode/
+.claude/
 *.swp
 *.swo
 
@@ -29,3 +30,7 @@ src-tauri/WixTools*/
 
 # Assets (large files)
 assets/wix314-binaries.zip
+
+# Legacy (old Electron code, project now uses Tauri)
+electron/
+tsconfig.electron.json
